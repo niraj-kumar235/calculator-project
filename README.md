@@ -65,7 +65,7 @@ The calculation logic is handled using JavaScript's `eval()` function.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/calculator-project.git
+git clone https://github.com/niraj-kumar235/calculator-project.git
 ```
 
 2. Open the project folder
@@ -102,7 +102,8 @@ git clone https://github.com/your-username/calculator-project.git
 
 ## 🙌 Author
 
-* Your Name
+* Niraj Kumar
+* Bihar
 
 ---
 
